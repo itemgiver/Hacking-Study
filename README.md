@@ -3,7 +3,7 @@
 ## About
 
 I studied basic knowledge about hacking. These are example materials of what I practiced. \
-Through this experience, I was able to gain security knowledge and have a safer coding style.
+While studying hacking, I was able to gain security knowledge and have a safer coding style.
 
 ## Materials
 
