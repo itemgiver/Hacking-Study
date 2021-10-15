@@ -2,7 +2,7 @@
 
 ## About
 
-I studied basic knowledge about hacking with the help of others who are good at hacking. I solved provided hacking problems including web, pwnable, forensic, and cryptography. While struggling with hacking problems and trying to "Capture the Flag", I improved my knowledge about a computer system and learned the way to code safely. \
+I studied basic knowledge about hacking with the help of others who are good at hacking. I solved provided hacking problems including web, pwnable, forensic, and cryptography. While struggling with hacking problems and trying to exploit them, I improved my knowledge about a computer system and learned the way to code safely. \
 These are example materials of what I practiced.
 
 ## Materials
