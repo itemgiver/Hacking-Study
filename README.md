@@ -2,8 +2,8 @@
 
 ## About
 
-I studied basic knowledge about hacking. These are example materials of what I practiced. \
-While studying hacking, I was able to gain security knowledge and have a safer coding style.
+I studied basic knowledge about hacking with the help of others who are good at hacking. I solved provided hacking problems including web, pwnable, forensic, and cryptography. While struggling with hacking problems and trying to "Capture the Flag", I improved my knowledge about a computer system and learned the way to code safely. \
+These are example materials of what I practiced.
 
 ## Materials
 
